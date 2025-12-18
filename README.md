@@ -20,6 +20,8 @@ The MATLAB script generates a 3D surface plot over the weight space (w1​,w2​
 
 The visualization is enhanced with smooth shading, lighting, and a perceptually uniform colormap for clearer interpretation.
 
+<img width="743" height="435" alt="Neural_network_loss_surface" src="https://github.com/user-attachments/assets/2e2c4128-7b15-4af6-8095-58d47a34e604" />
+
 **Purpose 📜**  
 To build intuition about loss landscapes encountered in neural network training and optimization.
 
